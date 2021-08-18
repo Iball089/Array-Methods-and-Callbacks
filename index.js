@@ -7,6 +7,13 @@ Practice accessing data by console.log-ing the following pieces of data note, yo
 fifaData.filter(function(item){
     return item.Year === 2014;
 })
+console.log(filter(function callbackFn(element) { (a) Home Team name for 2014 world cup final}));
+console.log(filter(function callbackFn(element) { (b) Away Team name for 2014 world cup final}));
+console.log(filter(function callbackFn(element) { (c) Home Team goals for 2014 world cup final}));
+console.log(filter(function callbackFn(element) { (d) Away Team goals for 2014 world cup final}));
+console.log(filter(function callbackFn(element) { (e) Winner of 2014 world cup final}));
+} 
+
 //(a) Home Team name for 2014 world cup final
 
 //(b) Away Team name for 2014 world cup final
@@ -26,10 +33,14 @@ Use getFinals to do the following:
 hint - you should be looking at the stage key inside of the objects
 */
 
-function getFinals(/* code here */) {
+function getFinals(x, y) {
    /* code here */
+   if (y === x[i] i++);
+   y = 2
+   x = 3
+   return = true;
 }
-
+console.log(x);
 
 
 /* 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀 Task 3: 🚀🚀🚀🚀🚀🚀🚀🚀🚀🚀
